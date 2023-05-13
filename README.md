@@ -1,5 +1,5 @@
-# rfg
-random data file generator
+# am
+access matrix.
 
 ## overview
 
